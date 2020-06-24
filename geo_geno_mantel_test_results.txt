@@ -1,0 +1,120 @@
+mantel(xdis = geo_dist_azurea, ydis = PVE_azurea_PGAbfp_HC_50miss_indmiss_qualOdp_fqbd_noindels_minDp30Pl30.dt1)
+
+Mantel statistic r: 0.3799 
+      Significance: 0.001 
+
+Upper quantiles of permutations (null model):
+   90%    95%  97.5%    99% 
+0.0718 0.0926 0.1108 0.1269 
+Permutation: free
+Number of permutations: 999
+
+mantel(xdis = geo_dist_crassipes, ydis = PVE_crassipes_PGAbfp_HC_50miss_indmiss_qualOdp_fqbd_noindels_minDp30Pl30.dt1) 
+
+Mantel statistic r: 0.3634 
+      Significance: 0.001 
+
+Upper quantiles of permutations (null model):
+   90%    95%  97.5%    99% 
+0.0388 0.0505 0.0635 0.0717 
+Permutation: free
+Number of permutations: 999
+
+mantel(xdis = geo_dist_azurea_Araguaia, ydis = PVE_azurea_Araguaia_PGAbfp_HC_50miss_indmiss_qualOdp_filtqualbydepth_noindels_minDp30Pl30.dt1) 
+
+Mantel statistic r: 0.777 
+      Significance: 0.009 
+
+Upper quantiles of permutations (null model):
+  90%   95% 97.5%   99% 
+0.259 0.457 0.505 0.578 
+Permutation: free
+Number of permutations: 999
+
+mantel(xdis = geo_dist_azurea_Madeira, ydis = PVE_azurea_Madeira_PGAbfp_HC_50miss_indmiss_qualOdp_filtqualbydepth_noindels_minDp30Pl30.dt1) 
+
+Mantel statistic r: 0.6529 
+      Significance: 0.001 
+
+Upper quantiles of permutations (null model):
+  90%   95% 97.5%   99% 
+0.124 0.167 0.201 0.266 
+Permutation: free
+Number of permutations: 999
+
+mantel(xdis = geo_dist_azurea_Pantanal, ydis = PVE_azurea_Pantanal_PGAbfp_HC_50miss_indmiss_qualOdp_filtqualbydepth_noindels_minDp30Pl30.dt1) 
+
+Mantel statistic r: 0.1217 
+      Significance: 0.066 
+
+Upper quantiles of permutations (null model):
+  90%   95% 97.5%   99% 
+0.101 0.131 0.152 0.174 
+Permutation: free
+Number of permutations: 999
+
+mantel(xdis = geo_dist_azurea_Parana, ydis = PVE_azurea_Parana_PGAbfp_HC_50miss_indmiss_qualOdp_filtqualbydepth_noindels_minDp30Pl30.dt1) 
+
+Mantel statistic r: 0.3277 
+      Significance: 0.002 
+
+Upper quantiles of permutations (null model):
+  90%   95% 97.5%   99% 
+0.141 0.186 0.211 0.267 
+Permutation: free
+Number of permutations: 999
+
+mantel(xdis = geo_dist_crassipes_Araguaia, ydis = PVE_crassipes_Araguaia_PGAbfp_HC_50miss_indmiss_qualOdp_filtqualbydepth_noindels_minDp30Pl30.dt1) 
+
+Mantel statistic r: 0.06044 
+      Significance: 0.202 
+
+Upper quantiles of permutations (null model):
+  90%   95% 97.5%   99% 
+0.190 0.221 0.237 0.250 
+Permutation: free
+Number of permutations: 999
+
+mantel(xdis = geo_dist_crassipes_Madeira, ydis = PVE_crassipes_Madeira_PGAbfp_HC_50miss_indmiss_qualOdp_filtqualbydepth_noindels_minDp30Pl30.dt1) 
+
+Mantel statistic r: 0.2726 
+      Significance: 0.006 
+
+Upper quantiles of permutations (null model):
+  90%   95% 97.5%   99% 
+0.103 0.156 0.195 0.236 
+Permutation: free
+Number of permutations: 999
+
+mantel(xdis = geo_dist_crassipes_Pantanal, ydis = PVE_crassipes_Pantanal_PGAbfp_HC_50miss_indmiss_qualOdp_filtqualbydepth_noindels_minDp30Pl30.dt1) 
+
+Mantel statistic r: 0.1753 
+      Significance: 0.001 
+
+Upper quantiles of permutations (null model):
+   90%    95%  97.5%    99% 
+0.0543 0.0709 0.0819 0.0964 
+Permutation: free
+Number of permutations: 999
+
+mantel(xdis = geo_dist_crassipes_Parana, ydis = PVE_crassipes_Parana_PGAbfp_HC_50miss_indmiss_qualOdp_filtqualbydepth_noindels_minDp30Pl30.dt1) 
+
+Mantel statistic r: 0.5674 
+      Significance: 0.001 
+
+Upper quantiles of permutations (null model):
+  90%   95% 97.5%   99% 
+0.133 0.170 0.203 0.246 
+Permutation: free
+Number of permutations: 999
+
+mantel(xdis = geo_dist_crassipes_Teles_Pires, ydis = PVE_crassipes_Teles_Pires_PGAbfp_HC_50miss_indmiss_qualOdp_filtqualbydepth_noindels_minDp30Pl30.dt1) 
+
+Mantel statistic r: 0.04774 
+      Significance: 0.201 
+
+Upper quantiles of permutations (null model):
+   90%    95%  97.5%    99% 
+0.0997 0.1483 0.1964 0.2922 
+Permutation: free
+Number of permutations: 999
